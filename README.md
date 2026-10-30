@@ -140,6 +140,7 @@
 - [confine](https://github.com/ex0dus-0x/confine) - sandbox for threat detection
 - [redbpf](https://github.com/foniod/redbpf) - crate for writing BPF/eBPF modules
 - [cernan](https://github.com/postmates/cernan) - telemtry aggregation and shipping
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Cross-platform Rust Endpoint Detection & Response (EDR) and zero-trust capability sandbox with eBPF/ETW probes and YARA-X.
 
 <br/>
 
